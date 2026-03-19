@@ -13,7 +13,7 @@ A collection of Python programs that demonstrate how to query multiple Generativ
 | `groq_example.py` | Groq | LLaMA 3.3 70B Versatile |
 | `ollama_example.py` | Ollama (local) | LLaMA 3.2 (runs offline) |
 | `hf.py` | Hugging Face | Qwen 2.5 72B (via SambaNova) |
-| `gemini_example.py` | Google Gemini | Gemini 2.0 Flash |
+| `gemini_example.py` | Google Gemini | Gemini 2.0 Flash |  <-- Not working Due to Api Issue 
 | `cohere_example.py` | Cohere | Command-A 03 2025 |
 | `multi_api_query.py` | All of the above | Select at runtime |
 
